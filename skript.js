@@ -16,7 +16,7 @@ let coll = arr.length;
 let x;
 
 //Начальные настройки
-for(let i = 2; i != coll; i ++){
+for(let i = 3; i != coll; i ++){
     arr[i].style.display = "none";
 }
 // body.style.backgroundImage = "url(" + arr[1].src + ")";
